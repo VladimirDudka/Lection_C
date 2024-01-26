@@ -1,6 +1,6 @@
 ﻿int a = 3;
 int b = 7;
-int c = 4;
+int c = 12;
 int d = 2;
 int e = 8;
 
@@ -8,20 +8,20 @@ int y = a;
 
 if (b > y)
 {
-    int y = b;
+     y = b;
 }
 
 
 if (c > y)
 {
-    int y = c;
+     y = c;
 }
 if (d > y)
 {
-    int y = d;
+     y = d;
 }
 if (e > y)
 {
-    int y = e;
+     y = e;
 }
 Console.WriteLine(y);
