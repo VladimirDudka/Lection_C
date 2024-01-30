@@ -6,7 +6,7 @@ int a = 322;
 int first_number = 7;
 int second_number = 23;
 
-if (a % first_number == 0 && a % second_number ==0)  //&& - ( И ) одно_условие И второе_условие
+if (a % first_number == 0 && a % second_number == 0)  //&& - ( И ) одно_условие И второе_условие
 //&& - ( И ), одно_условие " И " второе_условие, должны строго выполняться.
 {
     Console.WriteLine($" Число {a} кратно : {first_number} и {second_number} .");
