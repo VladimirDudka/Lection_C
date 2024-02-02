@@ -9,7 +9,7 @@ while (i < N)
     Console.Write($"{arr[i]} ");
     i = i + 1;
 }
-Console.WriteLine(' ');
+Console.WriteLine('.');
 
 
 
@@ -25,7 +25,7 @@ while(j < n)
     Console.Write(' ');
     j = j + 1;
 }
-Console.WriteLine(' ');
+Console.WriteLine('.');
 
 
 
