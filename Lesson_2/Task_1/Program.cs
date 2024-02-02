@@ -20,7 +20,7 @@ Console.WriteLine(arr[1]);
 Console.WriteLine(arr[2]);
 Console.WriteLine(arr[3]);
 Console.WriteLine(arr[4]);
-//Console.WriteLine(arr[5]); выход за предел массива
+//Console.WriteLine(arr[5]); // выход за предел массива
 
 
 
@@ -30,7 +30,7 @@ Console.Write(arr_2[0] + ", ");
 Console.Write(arr_2[1] + ", ");
 Console.Write(arr_2[2] + ", ");
 Console.Write(arr_2[3] + ", ");
-Console.WriteLine(arr_2[4]);
+Console.WriteLine(arr_2[4] + ".");
 
 
 
