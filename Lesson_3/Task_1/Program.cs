@@ -8,6 +8,10 @@
 // В заданной функции int Square , int - Тип возвращаемого значения, а
 // Square - имя функции, (int value) - входящие параметры из вне
 
+
+// Новая Задача:
+// Создать метод : (a * b) / (c + d)
+
 double CalculateFormula(int a, double b, int c, double d)
 {
     double numenator = a * b;
@@ -17,7 +21,7 @@ double CalculateFormula(int a, double b, int c, double d)
 }
 
 //CalculateFormula(3,-3,6,-6);
-//double total = CalculateFormula(f,1,1,-6);
+
 Console.Clear();
 Console.WriteLine($"Введите первое значение (a): ");
 int f = int.Parse(Console.ReadLine()!);
