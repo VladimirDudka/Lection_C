@@ -7,6 +7,9 @@
 // [1 5 11 21 81 4 0 91 2 3]
 // => 2
 
+
+// Метод создаёт массив из указанного кол-ва элементов
+// и заполняет его случайными числами из указанного промежутка
 int [] CreateArray (int size)
 {
     int[] array = new int[size];
@@ -37,11 +40,12 @@ int GetCount(int[] arr)
 
 
 // Вызов метода. Вывод массива после заполнения
-Console.Clear();
+Console.Clear(); // Отчистка терминала
 Console.Write("Введите число : "); // Вводим кол-во элементов массива
 int N = Convert.ToInt32(Console.ReadLine()); // Переводим введеный string в int и сохраняем в N
 int [] result = CreateArray(N); // Создаём новый массив с помощью метода CreateArray()
 int var = GetCount(result); // Метод GetCount() считает сколько совпадений в массиве с условием
+
 Console.WriteLine($"Массив : [ {string.Join(" | ", result)} ]");
 Console.WriteLine($"Кол-во совпавших с условием чисел : {var} ");
 Console.WriteLine();
