@@ -44,6 +44,6 @@ if (number > 1 && number <= 10 )
 }
 else
 {
-    Console.WriteLine($"Не выполнено условие ввода !");
+    Console.WriteLine($" Невыполнено условие ввода !");
     Console.WriteLine();
 }
