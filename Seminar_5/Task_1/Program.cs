@@ -2,7 +2,8 @@
 // числа чётные, замените эти элементы на их квадраты.
 
 Random rnd = new Random();
-int[,] DoubleArray(int row, int colum)
+int[,] DoubleArray(int row, int colum) // Метод создания двухмерного масива,
+//  с произвольными целыми числами от 10 до 99
 {   
     int[,] arr = new int[row, colum];
     for(int i = 0; i < row; i++)
@@ -17,7 +18,8 @@ int[,] DoubleArray(int row, int colum)
 
 
 
-int[,] ChangeElements(int[,] arrForChange)
+int[,] ChangeElements(int[,] arrForChange) // Метод находит элементы, у которых оба
+//    числа чётные, заменяет эти элементы на их квадраты.
 {
     for(int i = 0; i < arrForChange.GetLength(0); i++)
     {
@@ -35,7 +37,7 @@ int[,] ChangeElements(int[,] arrForChange)
 }
 
 
-void SeeMatrix(int[,] arr)
+void SeeMatrix(int[,] arr)  // Метод печатающий двумерный массив
 {
     for(int i = 0; i < arr.GetLength(0); i++)
     {
@@ -58,9 +60,11 @@ Console.Write("Введите кол-во строк массива (не бол
 int colum = Convert.ToInt32(Console.ReadLine()!);
 
 int [,] forPrint = DoubleArray(row, colum);
+
 Console.WriteLine($"Полученный массив : ");
 SeeMatrix(forPrint);
 Console.WriteLine();
+
 Console.WriteLine($"Изменёный массив : ");
 SeeMatrix(ChangeElements(forPrint));
 Console.WriteLine();
