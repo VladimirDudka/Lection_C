@@ -47,6 +47,19 @@ void SeeMatrix(int[,] arr) // Метод печатающий двумерный
     }
 }
 
+void SeeMatrix(int[,] arr) // Метод печатающий двумерный массив
+{
+    for (int i = 0; i < arr.GetLength(0); i++)
+    {
+        Console.Write("|");
+        for (int j = 0; j < arr.GetLength(1); j++)
+        {
+            Console.Write($"  {arr[i, j]}");
+        }
+        Console.WriteLine("  |");
+    }
+}
+
 Console.Clear();
 
 Console.Write("Введите кол-во столбцов массива (не более 5): ");
