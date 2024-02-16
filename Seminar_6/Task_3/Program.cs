@@ -26,5 +26,5 @@ Console.Write("Введите строчку: ");
 string inputString = Console.ReadLine()!;
 inputString = inputString.ToLower(); // Переводим всё в нижний регистр
 Console.WriteLine(inputString);
-Console.WriteLine($"В веденном тексте - {GetVovelsCount(inputString)} гласных букв.");
+Console.WriteLine($"Введенном тексте - {GetVovelsCount(inputString)} гласных букв.");
 Console.WriteLine();
