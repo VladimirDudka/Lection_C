@@ -1,0 +1,15 @@
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.csproj.AssemblyReference.cache
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+D:\C#\Lection_C\Lesson_5\Task_1\bin\Debug\net7.0\Task_1.exe
+D:\C#\Lection_C\Lesson_5\Task_1\bin\Debug\net7.0\Task_1.deps.json
+D:\C#\Lection_C\Lesson_5\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+D:\C#\Lection_C\Lesson_5\Task_1\bin\Debug\net7.0\Task_1.dll
+D:\C#\Lection_C\Lesson_5\Task_1\bin\Debug\net7.0\Task_1.pdb
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.dll
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.pdb
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+D:\C#\Lection_C\Lesson_5\Task_1\obj\Debug\net7.0\ref\Task_1.dll
