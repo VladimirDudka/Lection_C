@@ -4,7 +4,7 @@
 int FindFactorial(int N)
 {
     // Базовый случай
-    if(N == 1)
+    if(N == 0)
     {
         return 1;
     }
@@ -14,4 +14,4 @@ int FindFactorial(int N)
 }
 
 
-Console.WriteLine(FindFactorial(5));
+Console.WriteLine(FindFactorial(6));
