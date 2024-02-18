@@ -1,4 +1,4 @@
-﻿//                                РЕКУРСИЯ
+﻿//   РЕКУРСИЯ  - процесс вызова функции в самой себе.
 //         Задача_1
 //  Вычислить факториал от натурального числа N
 int FindFactorial(int N)
@@ -17,5 +17,5 @@ int FindFactorial(int N)
     Console.WriteLine($"Возврат: N = {N}, Factorial = {res}");
     return res;
 }
-int simplyDigit = 5;
-Console.WriteLine($"Факториал числа {simplyDigit} равен {FindFactorial(simplyDigit)}");
+int enterDigit = 5;
+Console.WriteLine($"Факториал числа {enterDigit} равен {FindFactorial(enterDigit)}");
