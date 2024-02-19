@@ -2,10 +2,12 @@
 // Выведите его элементы начиная с конца
 
 
-// Меняя данную переменную, можно выбрать 
-// размер массива, который будет заполнен
-int size = 7;
-
+// Меняя данную переменную (ввод с клавиатуры), можно выбрать 
+// размер массива, который будет создан и заполнен
+Console.Clear();
+Console.Write("Введите размер одномерного массива который будет создан : ");
+int size = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine();
 
 // Метод создаёт массив из указанного кол-ва элементов
 // и заполняет его случайными числами из указанного промежутка
@@ -32,7 +34,7 @@ void PrintReverseArray(int[] arr, int j)
         Console.Write("[ ");
     }    
     
-    if (j == 0)
+    else if (j == 0)
     {
         Console.Write("].");
         return;
@@ -42,9 +44,11 @@ void PrintReverseArray(int[] arr, int j)
     PrintReverseArray(arr, j - 1);
     return;
 }
-Console.Clear();
+
+
 Console.WriteLine($"Полученный массив из {size} элементов: ");
 Console.WriteLine($"[ {string.Join(" ", enterArray)} ].");
 Console.WriteLine($"Изменённый массив (reverse) из {size} элементов: ");
 PrintReverseArray(enterArray, j);
+Console.WriteLine();
 Console.WriteLine();
