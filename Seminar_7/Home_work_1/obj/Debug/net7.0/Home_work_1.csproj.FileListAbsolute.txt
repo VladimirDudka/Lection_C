@@ -1,0 +1,15 @@
+D:\C#\Lection_C\Seminar_7\Home_work_1\bin\Debug\net7.0\Home_work_1.exe
+D:\C#\Lection_C\Seminar_7\Home_work_1\bin\Debug\net7.0\Home_work_1.deps.json
+D:\C#\Lection_C\Seminar_7\Home_work_1\bin\Debug\net7.0\Home_work_1.runtimeconfig.json
+D:\C#\Lection_C\Seminar_7\Home_work_1\bin\Debug\net7.0\Home_work_1.dll
+D:\C#\Lection_C\Seminar_7\Home_work_1\bin\Debug\net7.0\Home_work_1.pdb
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.csproj.AssemblyReference.cache
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.AssemblyInfoInputs.cache
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.AssemblyInfo.cs
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.csproj.CoreCompileInputs.cache
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.dll
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\refint\Home_work_1.dll
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.pdb
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\Home_work_1.genruntimeconfig.cache
+D:\C#\Lection_C\Seminar_7\Home_work_1\obj\Debug\net7.0\ref\Home_work_1.dll
