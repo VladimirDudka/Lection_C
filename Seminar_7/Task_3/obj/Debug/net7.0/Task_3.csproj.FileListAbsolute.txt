@@ -1,0 +1,15 @@
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.csproj.AssemblyReference.cache
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.AssemblyInfoInputs.cache
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.AssemblyInfo.cs
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.csproj.CoreCompileInputs.cache
+D:\C#\Lection_C\Seminar_7\Task_3\bin\Debug\net7.0\Task_3.exe
+D:\C#\Lection_C\Seminar_7\Task_3\bin\Debug\net7.0\Task_3.deps.json
+D:\C#\Lection_C\Seminar_7\Task_3\bin\Debug\net7.0\Task_3.runtimeconfig.json
+D:\C#\Lection_C\Seminar_7\Task_3\bin\Debug\net7.0\Task_3.dll
+D:\C#\Lection_C\Seminar_7\Task_3\bin\Debug\net7.0\Task_3.pdb
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.dll
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\refint\Task_3.dll
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.pdb
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\Task_3.genruntimeconfig.cache
+D:\C#\Lection_C\Seminar_7\Task_3\obj\Debug\net7.0\ref\Task_3.dll
