@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "enqVHC35I6BATkrQv4GqWpsWJdXoTPKWFSaYHb1Ig8NJR6q/BPdmsIgjcM0A8IESRar+MqUfeVphBbmNSMohvw==",
   "success": true,
   "projectFilePath": "C:\\C#\\Seminar_7\\Task_1\\Task_1.csproj",
+=======
+  "dgSpecHash": "51s9PRLAqiiCLdufgx9mMSvhZXwBlHMU3MUlc/sHGO3IVpic/dQtErLrNggJAjnVWZDY+/01q2ogE4IVTTqWAA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Lection_C\\Seminar_7\\Task_1\\Task_1.csproj",
+>>>>>>> 2cead7772b5832306f8d5893a1c87336ae11cecf
   "expectedPackageFiles": [],
   "logs": []
 }

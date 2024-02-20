@@ -2,7 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+<<<<<<< HEAD
     <TargetFramework>net6.0</TargetFramework>
+=======
+    <TargetFramework>net7.0</TargetFramework>
+>>>>>>> 2cead7772b5832306f8d5893a1c87336ae11cecf
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

@@ -1,0 +1,15 @@
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+D:\C#\Lection_C\Seminar_7\Task_2\bin\Debug\net7.0\Task_2.exe
+D:\C#\Lection_C\Seminar_7\Task_2\bin\Debug\net7.0\Task_2.deps.json
+D:\C#\Lection_C\Seminar_7\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+D:\C#\Lection_C\Seminar_7\Task_2\bin\Debug\net7.0\Task_2.dll
+D:\C#\Lection_C\Seminar_7\Task_2\bin\Debug\net7.0\Task_2.pdb
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.dll
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.pdb
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+D:\C#\Lection_C\Seminar_7\Task_2\obj\Debug\net7.0\ref\Task_2.dll
